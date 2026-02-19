@@ -46,7 +46,8 @@ Django REST API designed to manage and serve categorized community resource data
 
 - Strengthening backend API architecture and testing practices  
 - Expanding cloud deployment knowledge (AWS)  
-- Continuing to refine full-stack development workflows  
+- Continuing to refine full-stack development workflows
+- Polishing projects for full deployment 
 
 ---
 
