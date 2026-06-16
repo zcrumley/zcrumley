@@ -1,53 +1,86 @@
-#  Hello! I’m Zachary
+# Hello, I’m Zachary
 
-Software Developer with an A.A.S. in Secure Software Development and a background in emergency services and IT support. I build full-stack applications using Python (Django) and React, and I’m currently expanding into cloud development while pursuing AWS certification along with Cyber Security certifications.
+Security-focused software developer with an A.A.S. (Associate of Applied Science) in Secure Software Development, CompTIA Security+ certified, and a background in emergency services and IT support.
 
----
-
-##  Tech Stack
-
-**Languages:**  
-Python, JavaScript, SQL  
-
-**Frontend:**  
-React, React Native, Vite, HTML5, CSS3  
-
-**Backend:**  
-Django, Django REST Framework  
-
-**Databases:**  
-PostgreSQL, SQLite  
-
-**Tools & Practices:**  
-Git, GitHub, Linux CLI, Postman  
-RESTful API design  
-Secure coding principles (OWASP)  
-JWT authentication concepts  
-Unit testing (PyTest, Jest)  
-
-**Cloud:**  
-AWS (Certification in progress)
+I build full-stack applications with Python, Django, JavaScript, React, and React Native. My current focus is application security, backend API (Application Programming Interface) development, cloud fundamentals, and Security Operations Center (SOC) analyst skills through hands-on lab work.
 
 ---
 
-##  Featured Projects
+## Technical Skills
 
-###  FinishLine  
-React-based task management application with multi-list support, task prioritization, filtering, and persistent local storage.  
- https://github.com/zcrumley/FinishLine
+**Languages:**
+Python, JavaScript, SQL, HTML5, CSS3
 
-###  Mental Health Resource Directory  
-Django REST API designed to manage and serve categorized community resource data for frontend integration.  
- https://github.com/zcrumley/mental-health-resource-directory
+**Frontend:**
+React, React Native, Vite
+
+**Backend:**
+Django, Django REST Framework, RESTful API (Application Programming Interface) design
+
+**Databases:**
+PostgreSQL, SQLite
+
+**Cybersecurity:**
+CompTIA Security+, secure coding principles, OWASP (Open Worldwide Application Security Project) concepts, authentication and authorization, JWT (JSON Web Token) concepts, vulnerability awareness, log analysis, Security Information and Event Management (SIEM) fundamentals
+
+**Tools:**
+Git, GitHub, Linux command line, Postman, VMware, Wazuh, Windows, Linux
 
 ---
 
-##  Currently Working On
+## Featured Projects
 
-- Strengthening backend API architecture and testing practices  
-- Expanding cloud deployment knowledge (AWS)  
-- Continuing to refine full-stack development workflows
-- Polishing projects for full deployment 
+### Security Operations Center Lab — In Progress
+
+Hands-on cybersecurity lab designed to simulate basic Security Operations Center (SOC) analyst workflows.
+
+**Current focus:**
+
+* Deploying Wazuh as a Security Information and Event Management (SIEM) platform
+* Monitoring Windows and Linux endpoints
+* Collecting and reviewing security logs
+* Practicing alert triage, endpoint visibility, and basic incident response documentation
+* Using virtual machines to simulate attacker, server, and endpoint environments
+
+**Technologies:**
+Wazuh, Ubuntu Server, Windows 11, Kali Linux, VMware, Sysmon
 
 ---
 
+### FinishLine
+
+React-based task management application with multi-list support, task prioritization, filtering, and persistent local storage.
+
+**What it demonstrates:**
+Frontend state management, component-based design, user workflow organization, and local data persistence.
+
+Repository:
+https://github.com/zcrumley/FinishLine
+
+---
+
+### Mental Health Resource Directory
+
+Full-stack community resource directory built with Django REST Framework and React Native for organizing and displaying local support resources.
+
+**What it demonstrates:**
+Backend API (Application Programming Interface) design, categorized data modeling, mobile frontend integration, search/filter functionality, and practical software development for public-service use cases.
+
+Repository:
+https://github.com/zcrumley/mental-health-resource-directory
+
+---
+
+## Currently Working On
+
+* Building and documenting a Security Operations Center (SOC) home lab
+* Strengthening backend architecture and API (Application Programming Interface) testing
+* Expanding Amazon Web Services (AWS) cloud knowledge
+* Improving secure software development practices
+* Preparing projects for better documentation, deployment, and portfolio presentation
+
+---
+
+## Career Focus
+
+I am currently focused on roles that combine software development, cybersecurity, cloud technology, and technical troubleshooting. My long-term goal is to work in cybersecurity, cloud security, application security, or security operations.
