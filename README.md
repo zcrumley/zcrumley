@@ -2,7 +2,7 @@
 
 Security-focused software developer with an A.A.S. (Associate of Applied Science) in Secure Software Development, CompTIA Security+ certified, and a background in emergency services and IT support.
 
-I build full-stack applications with Python, Django, JavaScript, React, and React Native. My current focus is application security, backend API (Application Programming Interface) development, cloud fundamentals, and Security Operations Center (SOC) analyst skills through hands-on lab work.
+I build full-stack applications with Python, Django, JavaScript, React, and React Native. My current focus is application security, backend API development, and Security Operations Center analyst skills through hands-on lab work.
 
 ---
 
@@ -21,7 +21,8 @@ Django, Django REST Framework, RESTful API (Application Programming Interface) d
 PostgreSQL, SQLite
 
 **Cybersecurity:**
-CompTIA Security+, secure coding principles, OWASP (Open Worldwide Application Security Project) concepts, authentication and authorization, JWT (JSON Web Token) concepts, vulnerability awareness, log analysis, Security Information and Event Management (SIEM) fundamentals
+CompTIA Security+, SOC lab development, Wazuh SIEM, endpoint monitoring, Windows/Linux log analysis, Sysmon telemetry, alert triage, basic incident response, network security fundamentals, OWASP concepts, secure coding practices, JWT authentication, and vulnerability awareness
+
 
 **Tools:**
 Git, GitHub, Linux command line, Postman, VMware, Wazuh, Windows, Linux
