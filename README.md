@@ -1,4 +1,4 @@
-# Hello, I’m Zachary!
+# Hello, I’m Zach!
 
 Security-focused software developer with an A.A.S. in Secure Software Development, CompTIA Security+ certification, and a background in emergency services and IT support. I build full-stack applications and focus on application security, backend API development, and SOC analysis. Currently working on B.A.A in Cybersecurity at The University of Texas San Antonio
 
