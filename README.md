@@ -19,7 +19,7 @@ Security-focused software developer with an A.A.S. in Secure Software Developmen
 
 ## Featured Projects
 
-### [Security Operations Center Lab (In Progress)](https://github.com/zcrumley/SOC-Lab)
+### [SOC Analyst Home Lab (In Progress)](https://github.com/zcrumley/SOC-Lab)
 Hands-on cybersecurity lab designed to simulate SOC analyst workflows.
 *   **Focus:** Deploying Wazuh SIEM, monitoring endpoints, collecting security logs, practicing alert triage, and basic incident response documentation.
 *   **Technologies:** Wazuh, Ubuntu Server, Windows 11, Kali Linux, VMware, Sysmon.
