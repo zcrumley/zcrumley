@@ -19,20 +19,26 @@ Security-focused software developer with an A.A.S. in Secure Software Developmen
 
 ## Featured Projects
 
-### [SOC Analyst Home Lab (In Progress)](https://github.com/zcrumley/SOC-Lab)
+### [Phishing Email Parser](https://github.com/zcrumley/Phishing-Report-Parser)
+
+Python-based security tool designed to support phishing investigations by extracting key artifacts from raw email content.
+
+* **Focus:** Parsing suspicious emails, extracting URLs, domains, IP addresses, sender details, and cleaning output for easier analyst review.
+* **Technologies:** Python, regular expressions, email parsing, command-line tooling, Git, GitHub.
+
+### [SOC Analyst Home Lab](https://github.com/zcrumley/SOC-Lab)
 Hands-on cybersecurity lab designed to simulate SOC analyst workflows.
 *   **Focus:** Deploying Wazuh SIEM, monitoring endpoints, collecting security logs, practicing alert triage, and basic incident response documentation.
 *   **Technologies:** Wazuh, Ubuntu Server, Windows 11, Kali Linux, VMware, Sysmon.
 
-### [FinishLine](https://github.com/zcrumley/FinishLine)
-React-based task management application featuring multi-list support, task prioritization, filtering, and persistent local storage.
-*   **Demonstrates:** Frontend state management, component-based design, and local data persistence.
-*   **Technologies:** React, Vite, JavaScript.
+### [Phishing Email Analysis Lab](https://github.com/zcrumley/Phishing-Analysis-Lab)
 
-### [Mental Health Resource Directory](https://github.com/zcrumley/mental-health-resource-directory)
-Full-stack community resource directory for organizing and displaying local support resources.
-*   **Demonstrates:** Backend API design, categorized data modeling, mobile frontend integration, and search/filter functionality.
-*   **Technologies:** Django REST Framework, React Native, Python.
+Hands-on phishing investigation lab focused on reviewing suspicious emails from a SOC analyst perspective.
+
+* **Focus:** Analyzing email headers, reviewing sender details, inspecting links and domains, identifying phishing indicators, and documenting findings in incident-style reports.
+* **Technologies:** Gmail headers, email authentication concepts, URL/domain analysis, phishing triage, SOC documentation.
+
+
 
 ---
 
