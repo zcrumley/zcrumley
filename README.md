@@ -19,6 +19,9 @@ Security-focused software developer with an A.A.S. in Secure Software Developmen
 
 ## Featured Projects
 
+### [Live Azure Honeypot Lab](https://github.com/zcrumley/Live_Exposed_Azure_Honeypot)
+Azure honeypot cybersecurity lab demonstrating live attack detection, threat hunting, MySQL compromise analysis, incident response, and recovery using Microsoft Defender, Sentinel, and KQL.
+
 ### [Phishing Email Parser](https://github.com/zcrumley/Phishing-Report-Parser)
 
 Python-based security tool designed to support phishing investigations by extracting key artifacts from raw email content.
@@ -37,6 +40,7 @@ Hands-on phishing investigation lab focused on reviewing suspicious emails from 
 
 * **Focus:** Analyzing email headers, reviewing sender details, inspecting links and domains, identifying phishing indicators, and documenting findings in incident-style reports.
 * **Technologies:** Gmail headers, email authentication concepts, URL/domain analysis, phishing triage, SOC documentation.
+
 
 
 
