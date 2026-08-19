@@ -19,7 +19,7 @@ Security-focused software developer with an A.A.S. in Secure Software Developmen
 
 ## Featured Projects
 
-### [Live Azure Honeypot Lab](https://github.com/zcrumley/Live_Exposed_Azure_Honeypot)
+### [Azure Honeypot Lab](https://github.com/zcrumley/Live_Exposed_Azure_Honeypot)
 Azure honeypot cybersecurity lab demonstrating live attack detection, threat hunting, MySQL compromise analysis, incident response, and recovery using Microsoft Defender, Sentinel, and KQL.
 
 ### [Phishing Email Parser](https://github.com/zcrumley/Phishing-Report-Parser)
