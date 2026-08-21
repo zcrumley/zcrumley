@@ -11,7 +11,7 @@ Security-focused software developer with an A.A.S. in Secure Software Developmen
 | **Languages** | Python, JavaScript, SQL, KQL, HTML5 |
 | **Frontend** | React, React Native, Vite |
 | **Backend** | Django, Django REST Framework, RESTful APIs |
-| **Databases** | PostgreSQL, SQLite |
+| **Databases** | PostgreSQL, SQLite, MySQL |
 | **Cybersecurity** | CompTIA Security+, Wazuh, Tenable, Azure, Microsoft Defender, Endpoint Monitoring, Windows/Linux Log Analysis, Sysmon, Alert Triage, Incident Response, OWASP, Secure Coding, JWT |
 | **Tools & OS** | Git, GitHub, Linux CLI, Postman, VMware, Windows, Linux |
 
