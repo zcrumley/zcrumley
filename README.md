@@ -20,35 +20,23 @@ Security-focused software developer with an A.A.S. in Secure Software Developmen
 ## Featured Projects
 
 ### [Azure Honeypot Lab](https://github.com/zcrumley/Live_Exposed_Azure_Honeypot)
-Azure honeypot cybersecurity lab demonstrating live attack detection, threat hunting, MySQL compromise analysis, incident response, and recovery using Microsoft Defender, Sentinel, and KQL.
+Azure-based honeypot and threat hunting lab demonstrating the detection, investigation, and response to real-world attack activity targeting an intentionally exposed environment.
+
+* **Focus:** Live attack monitoring, threat hunting, MySQL compromise analysis, incident investigation, attacker activity reconstruction, containment, recovery, and security reporting.
+* **Technologies:** Microsoft Azure, Microsoft Defender for Endpoint, Microsoft Sentinel, KQL, MySQL, Windows, Log Analytics, Git, GitHub.
+
+### [Vulnerability Management Program](https://github.com/zcrumley/Vulnerability_Managment_Program)
+Azure-based vulnerability management project demonstrating the full lifecycle of identifying, prioritizing, remediating, and validating security weaknesses on a Windows Server 2025 system using Tenable Vulnerability Management.
+
+* **Focus:** Authenticated vulnerability scanning, CIS compliance assessment, risk-based remediation, Windows security hardening, remediation validation, and vulnerability management policy development.
+* **Technologies:** Microsoft Azure, Windows Server 2025, Tenable Vulnerability Management, PowerShell, CIS Benchmarks, CVSS, Git, GitHub
 
 ### [Phishing Email Parser](https://github.com/zcrumley/Phishing-Report-Parser)
-
 Python-based security tool designed to support phishing investigations by extracting key artifacts from raw email content.
 
 * **Focus:** Parsing suspicious emails, extracting URLs, domains, IP addresses, sender details, and cleaning output for easier analyst review.
 * **Technologies:** Python, regular expressions, email parsing, command-line tooling, Git, GitHub.
 
-### [SOC Analyst Home Lab](https://github.com/zcrumley/SOC-Lab)
-Hands-on cybersecurity lab designed to simulate SOC analyst workflows.
-*   **Focus:** Deploying Wazuh SIEM, monitoring endpoints, collecting security logs, practicing alert triage, and basic incident response documentation.
-*   **Technologies:** Wazuh, Ubuntu Server, Windows 11, Kali Linux, VMware, Sysmon.
-
-### [Phishing Email Analysis Lab](https://github.com/zcrumley/Phishing-Analysis-Lab)
-
-Hands-on phishing investigation lab focused on reviewing suspicious emails from a SOC analyst perspective.
-
-* **Focus:** Analyzing email headers, reviewing sender details, inspecting links and domains, identifying phishing indicators, and documenting findings in incident-style reports.
-* **Technologies:** Gmail headers, email authentication concepts, URL/domain analysis, phishing triage, SOC documentation.
 
 
 
-
----
-
-## Current Objectives
-
-*   Building and documenting a SOC home lab.
-*   Strengthening backend architecture and API testing.
-*   Expanding AWS cloud knowledge and secure software development practices.
-*   Seeking roles in cybersecurity, cloud security, application security, or security operations.
