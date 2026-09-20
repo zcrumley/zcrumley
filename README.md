@@ -9,12 +9,12 @@ Security-focused software developer and cybersecurity professional with an A.A.S
 
 | Category | Skills & Technologies |
 | :--- | :--- |
-| **Languages** | Python, JavaScript, SQL, KQL, HTML5 |
+| **Languages** | Python, JavaScript, SQL, KQL, HTML5, Java |
 | **Frontend** | React, React Native, Vite |
 | **Backend** | Django, Django REST Framework, RESTful APIs |
 | **Databases** | PostgreSQL, SQLite, MySQL |
-| **Cybersecurity** | CompTIA Security+, Wazuh, Tenable, Azure, Microsoft Defender, Endpoint Monitoring, Windows/Linux Log Analysis, Sysmon, Alert Triage, Incident Response, OWASP, Secure Coding, JWT |
-| **Tools & OS** | Git, GitHub, Linux CLI, Postman, VMware, Windows, Linux |
+| **Cybersecurity** | CompTIA Security+, Wazuh, Tenable, Microsoft Defender, Azure Security, SIEM Monitoring, Endpoint Monitoring, Windows/Linux Log Analysis, Sysmon, Vulnerability Management, Alert Triage, Incident Response, System Hardening, OWASP, Secure Coding |
+
 
 ---
 
