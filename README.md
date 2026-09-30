@@ -13,7 +13,7 @@ Security-focused software developer and cybersecurity professional with an A.A.S
 | **Frontend** | React, React Native, Vite |
 | **Backend** | Django, Django REST Framework, RESTful APIs |
 | **Databases** | PostgreSQL, SQLite, MySQL |
-| **Cybersecurity** | CompTIA Security+, Wazuh, Tenable, Microsoft Defender, Azure Security, SIEM Monitoring, Endpoint Monitoring, Windows/Linux Log Analysis, Sysmon, Vulnerability Management, Alert Triage, Incident Response, System Hardening, OWASP, Secure Coding |
+| **Cybersecurity** | CompTIA Security+, Wazuh, Tenable, Microsoft Defender, Azure Security, SIEM Monitoring, Endpoint Monitoring, Windows/Linux Log Analysis, Sysmon, Vulnerability Management, Alert Triage, Incident Response, System Hardening, OWASP |
 
 
 ---
