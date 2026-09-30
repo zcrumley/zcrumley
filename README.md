@@ -32,12 +32,6 @@ Azure-based vulnerability management project demonstrating the full lifecycle of
 * **Focus:** Authenticated vulnerability scanning, CIS compliance assessment, risk-based remediation, Windows security hardening, remediation validation, and vulnerability management policy development.
 * **Technologies:** Microsoft Azure, Windows Server 2025, Tenable Vulnerability Management, PowerShell, CIS Benchmarks, CVSS, Git, GitHub
 
-### [Phishing Email Parser](https://github.com/zcrumley/Phishing-Report-Parser)
-Python-based security tool designed to support phishing investigations by extracting key artifacts from raw email content.
-
-* **Focus:** Parsing suspicious emails, extracting URLs, domains, IP addresses, sender details, and cleaning output for easier analyst review.
-* **Technologies:** Python, regular expressions, email parsing, command-line tooling, Git, GitHub.
-
 
 
 
